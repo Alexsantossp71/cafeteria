@@ -1,1 +1,3 @@
-class Meu {}
+class Meu {
+  //comandos
+}
